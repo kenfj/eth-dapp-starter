@@ -2,6 +2,9 @@
 
 Quick start sample code to build Ethereum Dapp
 
+* 5 Samples from "Build 5 Dapps on the Ethereum Blockchain"
+  - https://www.youtube.com/watch?v=8wMKq7HvbKw
+
 ## Basic Terms
 
 * Smart Contract: small program run on Ethereum blockchain
@@ -74,3 +77,5 @@ solcjs --version
 * Build a Dapp in 20 Minutes (without Truffle)
   - https://www.youtube.com/watch?v=KkZ6iYnSDRw
   - https://github.com/dappuniversity/20_minute_dapp
+* Truffle + Ganache + Metamask を使って Ðapps の世界に旅立とう
+  - https://tech.drecom.co.jp/go_to_the_dapps_world/
